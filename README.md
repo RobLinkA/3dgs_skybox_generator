@@ -1,0 +1,2 @@
+# 3dgs_skybox_generator
+将HDRI贴图或全景图片转换为3DGS点云，增强VR和AR环境中的沉浸感。
